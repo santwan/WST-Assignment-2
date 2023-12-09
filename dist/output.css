@@ -1489,7 +1489,16 @@ video {
     line-height: 1.75rem;
   }
 
+  .md\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
   .md\:font-bold {
     font-weight: 700;
+  }
+
+  .md\:leading-8 {
+    line-height: 2rem;
   }
 }
